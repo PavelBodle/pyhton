@@ -23,6 +23,7 @@ def fizzBuzz(n):
             print("Buzz")
         else:
             print(x)
+    
 fizzBuzz(n)
     # Write your code here
 
